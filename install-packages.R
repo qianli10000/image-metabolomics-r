@@ -5,7 +5,7 @@ install.packages(c(
   'baseline',
   'hyperSpec',
   'ggplot2',
-  'erah',
+  'eRah',
   'mclust', 'matrixStats',
   'glmnet'))
 
